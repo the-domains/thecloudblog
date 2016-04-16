@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[thecloudblog]]></title>
+        <description><![CDATA[thecloudblog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 22:38:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Evolution of Cloud Computing]]></title>
+            <description><![CDATA[<article><h1>Evolution of Cloud Computing</h1><p>Cloud Computing is a “daily spoken” & most commonly used terminology in every forum. Every conversation with a CIO has a reference to cloud computing. 
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e52111c2c7619962189a22e40148d0464980c590.jpg"></article>]]></description>
+            <link>undefinedarpanet-and-eniac-to-cloud/index.html</link>
+            <guid isPermaLink="false">99ff5b67-725e-4528-9122-62230652de6d</guid>
+            <pubDate>Sat, 16 Apr 2016 22:38:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
