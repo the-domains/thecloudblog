@@ -2,6 +2,7 @@ name: thecloudblog
 favicon: null
 layout_spectrum: 0.1282508890144527
 typography_spectrum: 0.5375708658248186
+title: 'A Blog about Cloud Computing [#thecloudbook]'
 cta:
   domain: null
   bucket: null
