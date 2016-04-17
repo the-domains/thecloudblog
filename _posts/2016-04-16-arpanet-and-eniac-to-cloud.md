@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Cloud Computing is a “daily spoken” & most commonly used terminology in every forum. Every conversation with a CIO has a reference to cloud computing. \n"
-datePublished: '2016-04-16T22:38:30.612Z'
-dateModified: '2016-04-16T22:38:17.833Z'
+datePublished: '2016-04-17T19:35:54.789Z'
+dateModified: '2016-04-17T19:35:47.178Z'
 title: 'ARPANET & ENIAC to CLOUD'
 author: []
+sourcePath: _posts/2016-04-16-arpanet-and-eniac-to-cloud.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-arpanet-and-eniac-to-cloud.md
-published: true
 url: arpanet-and-eniac-to-cloud/index.html
-_type: Article
+_type: WebPage
 
 ---
 ## Evolution of Cloud Computing
@@ -27,7 +27,7 @@ _type: Article
 Cloud Computing is a "daily spoken" & most commonly used terminology in every forum. Every conversation with a CIO has a reference to cloud computing. 
 
 _Cloud computing as the name indicates is derived from the concept of Internet. Before and by 2000, Internet is referred as Cloud. When ever you have to show internet in an illustration, you will show it as a cloud. As internet is connection of computers & further you cant see internet as an entity, its depicted as cloud. _
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/969c7629-2c2d-4ae9-81a3-34da6c4abbf1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d558a5a-8773-4ce6-bf59-b4299406d07b.jpg)
 
 ARPANET TO CLOUD: 
 
